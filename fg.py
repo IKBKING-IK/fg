@@ -6,7 +6,7 @@ try:
 	import os,sys,time,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib,requests,uuid,string
 	from multiprocessing.pool import ThreadPool
 	from requests.exceptions import ConnectionError
-except ImportError:
+except ImportError:hhskdbfie r
 	os.system("pip2 install requests")
 
 agents =[
@@ -93,10 +93,10 @@ def log_sel():
 		log_select()
 		def loge
 		try:
-		    print(fuck u)
+		    print(fuck ejsnizmqonahnziqkakznizkqoa u)
 def login():
 	try:
-		token = open("access_token.txt", "r").read()
+		token = open("accessdbgwjsnns_token.txt", "r").read()
 		menu()clear")
 		print(logo)
 		print("")
@@ -150,7 +150,7 @@ def log_fb():
 		else:
 			print("")
 			print("\tId/pass my be wrong")
-			print("")
+			print("")bsuqmoqksiz w7nwjs su zuzmsie
 			time.sleep(1)
 def token():
     os.system("clear")
